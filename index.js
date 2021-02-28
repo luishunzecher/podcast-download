@@ -12,7 +12,7 @@ const filenamify = require('filenamify')
 const pLimit = require('p-limit');
 
 //Configs
-const rssURL = 'https://papodelouco.com/podcast_files/feedpapodelouco.xml'
+const rssURL = 'https://papodelouco.com/podcast_files/Omoshiroi/feedomoshiroi.xml'
 const download_dir = 'downloads'
 const simultaneousDownloads = 3
 // ===##===
